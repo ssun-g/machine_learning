@@ -1,5 +1,3 @@
-# 210310_TIL
-
 ## ✔️[albumetation_no_bbox](https://github.com/ssun-g/machine_learning/tree/master/albumentation_examples/albumentation_no_bbox.ipynb)
 
 - albumentation을 사용해 Bounding box가 없을 때의 이미지를 augmentation.
