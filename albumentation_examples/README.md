@@ -14,7 +14,7 @@
 
 <좌우 반전 & 밝기, 대비 조절 & rotate>
 
-## ✔️[albumetation_no_bbox](https://github.com/ssun-g/machine_learning/tree/master/albumentation_examples/albumentation_with_bbox.ipynb)
+## ✔️[albumetation_with_bbox](https://github.com/ssun-g/machine_learning/tree/master/albumentation_examples/albumentation_with_bbox.ipynb)
 
 - Bounding box가 있을 때, image augmentation. Bounding box까지 같이 변환해준다.
 
