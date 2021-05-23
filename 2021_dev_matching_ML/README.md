@@ -1,8 +1,8 @@
 # Image Classification
-Public LB Score 97.143 </br>
-Public LB Ranking 25 </br>
-Private LB Score 97.143 </br>
-Private LB Ranking 16 </br>
+Public LB Score __97.143__ </br>
+Public LB Ranking __25__ </br>
+Private LB Score __97.143__ </br>
+Private LB Ranking __16__ </br>
 
 ### Hyper-parameter
 
