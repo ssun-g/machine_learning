@@ -1,6 +1,5 @@
 # Image Classification
 7개의 class(dog, elephant, giraffe, guitar, horse, house, person) 로 구분 가능한 (3, 227, 227) shape의 이미지를 분류하는 Task</br></br>
-</hr>
 Public LB Score __97.143__ </br>
 Public LB Ranking __25__ </br>
 Private LB Score __97.143__ </br>
