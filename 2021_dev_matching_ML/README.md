@@ -3,7 +3,7 @@
 __Public LB Score 97.143__ </br>
 __Public LB Ranking 25__ </br>
 __Private LB Score 97.143__ </br>
-__Private LB Ranking 16__ </br>
+__Private LB Ranking 10__ </br>
 
 ### Hyper-parameter
 
