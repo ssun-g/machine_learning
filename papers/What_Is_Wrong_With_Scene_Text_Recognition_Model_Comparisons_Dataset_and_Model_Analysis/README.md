@@ -6,4 +6,4 @@ training, evaluation dataset들이 모델마다 상이해서 공정한 성능 �
 
 Papers : [Link](https://openaccess.thecvf.com/content_ICCV_2019/papers/Baek_What_Is_Wrong_With_Scene_Text_Recognition_Model_Comparisons_Dataset_ICCV_2019_paper.pdf)
 
-Review : [https://www.notion.so/What-Is-Wrong-With-Scene-Text-Recognition-Model-Comparisons-Dataset-and-Model-Analysis-7cef6bc9d5704cfcb2b678b48a04f830](https://www.notion.so/What-Is-Wrong-With-Scene-Text-Recognition-Model-Comparisons-Dataset-and-Model-Analysis-7cef6bc9d5704cfcb2b678b48a04f830)
+Review : [notion](https://www.notion.so/What-Is-Wrong-With-Scene-Text-Recognition-Model-Comparisons-Dataset-and-Model-Analysis-7cef6bc9d5704cfcb2b678b48a04f830)
