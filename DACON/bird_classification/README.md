@@ -11,33 +11,33 @@
 &nbsp;
 
 ## Hyper-parameter
-Seed: 42
+- Seed: 42
 
-epochs: 50
+- epochs: 50
 
-early stop count: 5
+- early stop count: 5
 
-Learning rate: 1e-5
+- Learning rate: 1e-5
 
-batch size: 8
+- batch size: 8
 
-num workers: 8
+- num workers: 8
 
-image size: 448, 448
+- image size: 448, 448
 
 &nbsp;
 
 ## Architecture
 
-Model: eva02_large + MLDecoder
+- Model: eva02_large + MLDecoder
 
-Optimizer: AdamW
+- Optimizer: AdamW
 
-Loss function: LabelSmoothing(0.75), DiceLoss(0.25)
+- Loss function: LabelSmoothing(0.75), DiceLoss(0.25)
 
-Scheduler: None
+- Scheduler: None
 
-Ansemble: StratifiedKFold, StratifiedShuffleSplit
+- Ansemble: StratifiedKFold, StratifiedShuffleSplit
 
 &nbsp;
 
