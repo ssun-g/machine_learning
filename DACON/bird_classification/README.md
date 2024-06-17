@@ -3,8 +3,12 @@
 ## 대회 설명
 - 입력으로 들어오는 저해상도의 64x64 크기의 조류 이미지로부터 종을 분류하는 AI 알고리즘 개발
 
+&nbsp;
+
 ## 평가 산식
 - Macro F1 Score
+
+&nbsp;
 
 ## 결과
 - Public LB: Score(0.98044), Rankings(6/385)
