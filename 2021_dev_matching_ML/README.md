@@ -13,7 +13,7 @@
 
 &nbsp;
 
-### Hyper-parameter
+## Hyper-parameter
 
 Seed: 0
 
@@ -27,7 +27,9 @@ batch size: 32
 
 num workers: 4
 
-### Architecture
+&nbsp;
+
+## Architecture
 
 Model: swsl_resnext50_32x4d (pretrained)
 
