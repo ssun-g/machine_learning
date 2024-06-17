@@ -7,7 +7,7 @@
 
 ## 결과
 - Public LB: Score 97.143, Rankings 25
-- **Private LB Score 97.143, Rankings 10**
+- **Private LB Score 97.1, Rankings 10**
 
 ![스크린샷 2022-11-21 오전 10 30 14](https://user-images.githubusercontent.com/33628588/202941968-0ced9808-dcf2-40aa-84e6-3262e5bb008c.png)
 
