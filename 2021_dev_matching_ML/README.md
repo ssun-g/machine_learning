@@ -1,4 +1,4 @@
-# [Programmers 2021 Dev-Matching: Mathcine Learning Engineer](https://career.programmers.co.kr/competitions/1109)
+# [Programmers 2021 Dev-Matching: 머신러닝 개발자](https://career.programmers.co.kr/competitions/1109)
 
 ## 대회 설명
 - 227*227 크기의 이미지를 7개의 클래스로 분류
