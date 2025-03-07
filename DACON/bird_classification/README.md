@@ -10,6 +10,11 @@
 
 &nbsp;
 
+## 주의 사항
+- PyTorch <= 1.13 (ML-Decoder 에러)
+
+&nbsp;
+
 ## Hyper-parameter
 - `Seed`: 42
 
