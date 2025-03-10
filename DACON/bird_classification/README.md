@@ -42,7 +42,7 @@
 
 - `Scheduler`: None
 
-- `Ansemble`: StratifiedKFold, StratifiedShuffleSplit
+- `Ensemble`: StratifiedKFold, StratifiedShuffleSplit
 
 &nbsp;
 
