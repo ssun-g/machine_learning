@@ -38,7 +38,7 @@
 
 - `Optimizer`: AdamW
 
-- `Loss function`: LabelSmoothing(0.75), DiceLoss(0.25)
+- `Loss function`: LabelSmoothing
 
 - `Scheduler`: None
 
